@@ -1,0 +1,24 @@
+ history
+    1  git --version
+    2  pwd
+    3  cd
+    4  pwd
+    5  git clone https://github.com/jordangrindrod/scripts.git
+    6  git clone https://github.com/Crush-Steelpunch/AEDXDDO4-Aug-23.git
+    7  ls
+    8  ls -lrt
+    9  pwd
+   10  git branch develop
+   11  ls
+   12  git branch
+   13  git checkout develop
+   14  git branch issue-1
+   15  git branch
+   16  git branch -d issue-1
+   17  git branch
+   18  git checkout master
+   19  git branch
+   20  git branch -d develop
+   21  bit branch
+   22  git branch
+   23  history
